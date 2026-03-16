@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="Astra Logo" width="120" />
   <h1>Astra</h1>
   <p><strong>Agentic AI Backtesting Platform</strong></p>
   <p>Design, compile, and validate algorithmic trading strategies using natural language.</p>
